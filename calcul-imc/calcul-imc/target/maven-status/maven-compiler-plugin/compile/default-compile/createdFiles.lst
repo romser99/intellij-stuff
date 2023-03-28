@@ -1,0 +1,4 @@
+fr\solutec\imc\entities\Imc.class
+fr\solutec\imc\service\ImcService.class
+fr\solutec\imc\dao\ImcDAO.class
+fr\solutec\imc\ImcServlet.class
